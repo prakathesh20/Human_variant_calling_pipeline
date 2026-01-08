@@ -1,0 +1,9 @@
+name : variant-calling
+channels:
+	-bioconda
+	-conda-forge
+dependencies:
+	-bwa
+	-samtools
+	-bamtools
+	-fastqc
