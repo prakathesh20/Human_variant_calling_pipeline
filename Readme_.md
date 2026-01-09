@@ -1,4 +1,4 @@
-#hHuman variant calling pipeline(chromosome 22)
+#Human variant calling pipeline(chromosome 22)
 
 ##overview
 This project implements an end to end short read variant calling pipeline on human chromosome 22 using standard bioinformatics tools. This pipeline demonstrates core genomic concepts including read alignment, pileup generation, variants calling, filtering and statistical analysis.
